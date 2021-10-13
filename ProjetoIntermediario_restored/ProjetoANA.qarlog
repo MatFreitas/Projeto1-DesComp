@@ -1,0 +1,45 @@
+Quartus Prime Archive log --	C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/ProjetoANA.qarlog
+
+Archive:	C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/ProjetoANA.qar
+Date:		Sun Oct 10 13:30:29 2021
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/CPU.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Projeto.qpf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Projeto.qsf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Projeto.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/ULASomaSub.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform1.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform2.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform3.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform4.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform5.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/Waveform6.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/assignment_defaults.qdf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/conversorHex7Seg.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/decodificador.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/decodificador3x8.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/edgeDetector.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/logicaDesvio.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/memoriaRAM.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/memoriaROM.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/muxGenerico2x1.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/muxGenerico3x1.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/output_files/Chain1.cdf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/output_files/Waveform.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorFlipFlop.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorFlipFlopAnd.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorGenerico.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorGenericoAnd.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorGenericoHex.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/registradorMemoria.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/simulation/qsim/Waveform.vwf
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/somaConstante.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/triState.vhd
+C:/Users/matfs/Documentos/sexto/DesComp/Projeto1-DesComp/ProjetoIntermediario_restored/triStateVector.vhd
+	======= Total: 34 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

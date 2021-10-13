@@ -1,0 +1,10 @@
+# do Projeto.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 13:29:35 on Oct 10,2021
+# vcom -work work Projeto.vho 
+# ** Error: (vcom-7) Failed to open design unit file "Projeto.vho" in read mode.
+# No such file or directory. (errno = ENOENT)
+# End time: 13:29:35 on Oct 10,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# ** Error: c:/intelfpga_lite/20.1/modelsim_ase/win32aloem/vcom failed.
+# Executing ONERROR command at macro ./Projeto.do line 3
